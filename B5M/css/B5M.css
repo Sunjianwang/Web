@@ -411,6 +411,9 @@ ul,ol,li{
 	position: absolute;
 	line-height: 28px;
 }
+.gonggao a{
+	color: #fe6c00;
+}
 .xiaoxiaoheng{
 	width: 200px;
 	height: 0px;
